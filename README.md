@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vaibhav Bajpayee
-- 👀 I’m interested in coding, gaming and wachig anime
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on futurisic and on the proects which can solve real world problem
-- 📫 To reach me you can connect me on twitter @imvbajpayee
+- 👀 I mostly spend my time coding, gaming and reading manga
+- 🌱 I’m currently learning ML
+- 💞️ I’m open to collaborating on futuristic and on projects which can solve a real-world problem
+- 📫 To reach me you can connect with me on Twitter @imvbajpayee
 
 <!---
 Vibs21/Vibs21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
