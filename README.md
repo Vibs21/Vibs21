@@ -1,7 +1,7 @@
 -👋 Hi, I'm Vaibhav Bajpayee
 - 👀 Coding, gaming, and manga fuel my days
 - 🌱 Currently delving into the world of MERN and ML
-- 💞️ Collaborator on visionary problem-solving projects
+- 💞️ Collaborator
 - 📫 Let's connect on Twitter @imvbajpayee
 
 <!---
