@@ -1,5 +1,6 @@
 -👋 Hi, I'm Vaibhav Bajpayee
 - 👀 Coding, gaming, and manga fuel my days
+- 💻 Frontend maestro crafting pixel-perfect experiences 
 - 🌱 Currently delving into the world of MERN and ML
 - 💞️ Collaborator
 - 📫 Let's connect on Twitter @imvbajpayee
